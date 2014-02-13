@@ -1,0 +1,7 @@
+{
+  "name": "verstat-plugin-cssmin",
+  "version": "1.0.0",
+  "dependencies": {
+    "cssmin": "~0.4.1"
+  }
+}
